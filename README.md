@@ -4,13 +4,14 @@ Authentication System: Deploy an Express server that implements Basic Authentica
 
 
 
-![uml diagram](./assest/l.PNG)
+![uml diagram](./assest/l.png)
 
-![UML Diagram](./assest/l1.PNG)
+![UML Diagram](./assest/l1.png)
 
 <hr>
 <br>
 
+[Pull Request](https://github.com/ebnanzhran/bacic-auth/pull/1)
 [heroku link](https://basic-auth-tasneem.herokuapp.com/users)
 
 
